@@ -738,6 +738,8 @@ textarea.form-control {
 }
 .contact-box {
   text-align:left;
+    margin-left: auto;
+    margin-right: auto;
 }
 .contact-box h4 {
   font-size:24px;
